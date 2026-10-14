@@ -1,2 +1,6 @@
-# bioSite
-CSD 340 bioSite Project - Personal biography, hobbies, and web development using HTML and CSS.
+# CSD 340 Web Development with HTML and CSS
+
+## Contributors
+
+- Instructor: Vianelis Martinez
+- Alrich Rigonios
